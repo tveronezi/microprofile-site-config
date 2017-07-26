@@ -11,4 +11,9 @@ projects:
   - eclipse/microprofile-health
   - eclipse/microprofile-jwt-auth
   - eclipse/microprofile-bom
+
+blog:
+  - url: 2016/09/microprofile-at-javaone.adoc
+  - url: 2016/09/blog-test.adoc
+  - url: 2016/09/no_title.adoc
   
